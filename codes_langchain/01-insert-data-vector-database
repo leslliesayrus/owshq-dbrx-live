@@ -1,0 +1,37 @@
+from langchain.embeddings import DatabricksEmbeddings
+from langchain_pinecone import PineconeVectorStore
+from langchain.docstore.document import Document
+from datetime import datetime
+from dotenv import load_dotenv
+import os
+
+os.environ["PINECONE_API_KEY"] = "Your Key from Pinecone"
+os.environ["PINECONE_INDEX_NAME"] = "Your Index name from Pinecone"
+
+databricks_host = "Your Databricks Host"
+databricks_token = "Your Databricks API token"
+
+# reading texts from file .txt
+texts = []
+with open('texts.txt', 'r') as file:
+    for line in file.readlines():
+        texts.append(line.strip())
+
+texts_01 = [Document(page_content=i, metadata={"time": datetime.now().strftime("%Y%m%d%H%M%S")}) for i in texts]
+
+# Model Embeddings for insert data into the Vector Database
+model_embeddings = DatabricksEmbeddings(host =databricks_host , api_token= databricks_token,
+                           endpoint = "databricks-bge-large-en")
+
+index_name = os.getenv('PINECONE_INDEX_NAME')
+
+#Inserting data into the Vector Database Pinecone
+docsearch = PineconeVectorStore.from_documents(texts_01, model_embeddings, index_name=index_name)
+
+#Make some question for test the insert process
+query = "What is The Plumbers"
+docs = docsearch.similarity_search(query, k = 5)
+
+for i in docs:
+    print(i.page_content)
+    print()

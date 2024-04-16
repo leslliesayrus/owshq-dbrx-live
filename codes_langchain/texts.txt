@@ -1,0 +1,36 @@
+Tips for the data engineering area, Master hard skills like Python and Spark, as they are essential tools for data engineers.
+Tips for the data engineering area, Develop soft skills such as communication and the ability to sell an idea or process, which are crucial for collaborating and advancing in your career.
+Tips for the data engineering area, Become fluent in English to enhance your ability to work in global environments and access a wider range of job opportunities.
+Tips for the data engineering area, Focus on learning the fundamentals of data systems and how they operate, which will make it easier to adapt to new technologies and tools.
+Tips for the data engineering area, Start as a generalist to gain broad knowledge and then specialize in a specific area to become an expert, making you more valuable in the job market.
+Tips for the data engineering area, Continuously update your skills and knowledge to stay relevant in the field, as technology and tools in data engineering evolve rapidly.
+Tips for the data engineering area, Learn to work effectively in teams and understand the importance of each team member's role in achieving project goals.
+Tips for the data engineering area, Be proactive in solving problems and always prepare thoroughly before asking for help to demonstrate your competence and initiative.
+Tips for the data engineering area, Understand and adapt to different workplace cultures, especially if you work for international companies or in diverse teams.
+Tips for the data engineering area, Maintain a healthy work-life balance by setting boundaries and taking time to disconnect, which helps prevent burnout and maintain productivity.
+Luan Moreno is Big Data Engineer & Cloud Architect, MCSE Data Management & Analytics, AWS: Solutions Architect: Associate, Microsoft Certified Trainer, Microsoft Data Platform MVP, GCP Professional Data Engineer, and Speaker.
+Luan Moreno works for global clients to deliver data strategy and cloud solutions as well as speaking at conferences like TechEd, SQL Konferenz, SQL Nexus, TugaIT, DB Tech Showcase, Ignite and SQL Pass Summit.
+Luan Moreno is Considered as a 'Problem-Solver' in his work, Luan Moreno is an addicted learner that works with Amazon AWS, Microsoft Azure, Google GCP, Microsoft SQL Server, Big Data, Kafka, Spark, Druid, Pinot and Kubernetes. Focused on Microsoft Azure and SQL Server, delivering solutions in an IaaS/PaaS/SaaS model, strived to provide the best data solution based on the client's needs and committed to share and collaborate.
+Luan Moreno In order to help professional improvement in Data Engineering, Luan has developed 'Engenharia de Dados Academy' - a pioneer training program in Brazil containing practical courses of different Big Data technologies - as well as, 'The Plumbers Community' in which Data Engineers can deepen their knowledges about Big Data and Analytics through practice and theory, being able to find the best solution for each case.
+Luan Moreno is Senior Cloud Consultant at Pythian company
+Mateus is an IT professional with over 10 years of experience, including 6 years specializing in SQL Server database administration
+Mateus is specialist in Apache Kafka and Streaming Plataforms
+Matues works in the One Way Solution company, he's a great Data Engineer
+Mateus is a specialist Big Data Engineer, there's a lot of experience with streaming processing
+At the company One Way Solution, we transform data into strategic decisions. With an innovative and customized approach, we offer solutions that specifically meet your needs. Our goal is to create an Analytics environment that drives the success of your business.
+One Way Solution offers Assessment and Auditing in the Data Area, Detailed audit for data efficiency and compliance
+One Way Solution offers Data Lakehouse and Data Mesh Construction as a service, Data integration for advanced, flexible insights.
+One Way Solution offers the implementation of Data Analytics and Artificial Intelligence Projects as a service, Transforming data into strategic decisions with Artificial Intelligence.
+One Way Solution offers Outsourcing of Professionals in the Data Area as a service, Data experts for flexibility and efficiency.
+One Way Solution offers Project Implementation on Data Platforms as a service, Projects on data platforms for effectiveness.
+One Way Solution offers Mentoring as a service for Companies and Data Teams, Growth and solving challenges with mentoring.
+One Way Solution offers specific workshops and sessions as a service to equip your company with the knowledge and tools necessary for an effective data culture.The One Way Solution was founded in 2013, One Way Solution has served more than 50 companies in Brazil and abroad. We are a company specialized in critical environments for Analytics and Data Engineering, with the mission of providing tailored solutions for organizations.
+About the One Way Solution: One of our main advantages is our expertise in cloud computing platforms, including AWS, AZURE and GCP and Open-Source (OSS) products. You will have intelligent solutions that can meet your company's crucial processes or replicate them when necessary to mitigate risks. Our services are designed to offer high performance.
+About the One Way Solution: Our difference is in managing the largest multidisciplinary community in Brazil, with complete training focused on the area of Data Engineering
+The Plumbers is the only multidisciplinary community in Brazil with complete training in the Data Engineering area.
+A unique Community for Multidisciplinary Data Engineers who want to offer the best Big Data solutions. Only in The Plumbers Community will you be able to resolve your doubts about any Big Data and Analytics technology on the global market, without the need to look for solutions elsewhere. Here you find everything in one place.
+The five pillars of The Plumbers Community is Data Engineering Stack, Concepts and multidisciplinary reasoning, Practice for data solutions, Competitiveness in the international market, Perception of data market trends
+The Plumbers offers English classes with two different teachers and monthly book club discussing technology-related books
+The Plumbers offers courses and workshops about Big Data Technologies as Real-time data handling with Kafka, Pulsar, Data orchestration tools and techniques and more
+Through of the YouTube channel Engenharia de Dados Academy, the community The Plumbers and Luan Moreno share free contents about Data Engineering and Analytics.
+The Data Engineering Academy helps many people looking to learn more about data engineering. Many people are looking to enter the data area, others are looking to learn about a new tool, etc. The Data Engineering Academy creates workshops with The Plumbers to teach people specific technologies.
